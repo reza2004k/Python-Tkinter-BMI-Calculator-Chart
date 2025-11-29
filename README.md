@@ -1,7 +1,7 @@
 # 🏋️ Python Tkinter BMI Calculator & Chart Visualizer
 
 This project is a simple, interactive application that calculates a person's Body Mass Index (BMI) and provides a **visual representation** of where their result falls on a standard BMI chart. It combines GUI development with data plotting for a user-friendly health tool.
-/
+
 ## ✨ Core Features
 
 * **BMI Calculation:** Calculates BMI using the formula: $BMI = \frac{Weight (kg)}{Height (m)^2}$.
